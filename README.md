@@ -10,6 +10,8 @@
 <a href="https://instagram.com/its._.islamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its._.islamo" height="30" width="40" /></a>
 <a href="https://fb.com/islam.brg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="islam.brg" height="30" width="40" /></a>
 <a href="https://twitter.com/boureghdai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boureghdai" height="30" width="40" /></a>
+<a href="<a href="https://twitter.com/boureghdai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boureghdai" height="30" width="40" /></a>
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="islam.brg" height="30" width="40" /></a>
 <a href="https://discord.gg/islam.brg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="islam.brg" height="30" width="40" /></a>
 </p>
 
