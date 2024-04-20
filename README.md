@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boureghda Mohamed Islam</h1>
 <h3 align="center">ِCS student from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islambrg&label=Profile%20views&color=0e75b6&style=flat" alt="islambrg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=islambrg&label=Profile%20views&color=0d8ece&style=flat" alt="islambrg" /> </p>
+
+- 📫 How to reach me **mislam.boureghda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,13 +13,14 @@
 <a href="https://discord.gg/islam.brg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="islam.brg" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islambrg&show_icons=true&locale=en&layout=compact" alt="islambrg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islambrg&show_icons=true&locale=en" alt="islambrg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islambrg&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=383b9f&hide_border=true&locale=en" alt="islambrg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambrg&" alt="islambrg" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambrg&theme=dark" alt="islambrg" /></p>
 
 - 👋 Hi, I’m @islambrg
 - 👀 I’m interested in computer science
