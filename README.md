@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islambrg&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=383b9f&hide_border=true&locale=en" alt="islambrg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islambrg&show_icons=true&theme=shadow_red&title_color=ffffff&text_color=ffffff&bg_color=383b9f&hide_border=true&locale=en" alt="islambrg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambrg&theme=dark" alt="islambrg" /></p>
 
