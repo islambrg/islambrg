@@ -12,6 +12,8 @@
 <a href="https://twitter.com/boureghdai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boureghdai" height="30" width="40" /></a>
 <a href="https://www.snapchat.com/add/islam.brg?sender_web_id=87b549f9-877a-4c69-a085-b248957d577b&device_type=desktop&is_copy_url=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="islam.brg" height="30" width="40" /></a>  
 <a href="https://discord.gg/islam.brg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="islam.brg" height="30" width="40" /></a>
+<a href="https://www.pinterest.com/boureghdam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="boureghdam" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambrg&theme=dark" alt="islambrg" /></p>
 
 
-
+https://www.pinterest.com/boureghdam/
 <!--- 
 - 👋 Hi, I’m @islambrg
 - 👀 I’m interested in computer science
