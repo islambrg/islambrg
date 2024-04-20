@@ -24,7 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islambrg&theme=dark" alt="islambrg" /></p>
 
 
-https://www.pinterest.com/boureghdam/
 <!--- 
 - 👋 Hi, I’m @islambrg
 - 👀 I’m interested in computer science
